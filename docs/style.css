@@ -346,7 +346,7 @@ div.articleRight {
 	font-size: 94%;
 	text-align: center;
 	overflow: hidden;
-	line-height: 1.4em;
+	line-height: 1.4em;	
 	padding: 3px;
 	font-size: 94%;
 	margin: 0 0 5px 15px;
@@ -361,8 +361,26 @@ div.articleRightInner {
 	overflow: hidden;
 }
 div.size1 {
-	width: 25%;
+	width: 23%;
 }	
+div.size2 {
+	width: 33%;
+}	
+div.size3 {
+	width: 31.5%;
+}
+div.size4 {
+	width: 35%;
+}
+div.size5 {
+	width: 28%;
+}
+div.size6 {
+	width: 37%;
+}
+div.size3p {
+	height: 10vw;
+}		
 .logo {
 	margin-bottom: 20px;
 }
@@ -482,7 +500,7 @@ span.user {
 	font-size: 95%;
 	position: relative;
 	line-height: 1.7em;
-	width: 280px;
+	width: 450px;
 }
 .contentsHeader {
 	font-family: sans-serif;
@@ -583,6 +601,10 @@ span.user {
 .pagefooter a {
 	display: inline-block;
 	margin-right: 1em;
+}
+.cit {
+	vertical-align: 5px;
+	font-size: 70%;
 }
 @media screen and (max-width: 850px) {
 	#searchInput {
