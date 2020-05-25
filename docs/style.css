@@ -360,23 +360,51 @@ div.articleRightInner {
 	text-align: center;
 	overflow: hidden;
 }
+/*  div.size1 {
+ 	width: 23%;
+}*/	
 div.size1 {
-	width: 23%;
+	width: 300px;
 }	
-div.size2 {
+/*div.size2 {
 	width: 33%;
+}*/	
+div.size2 {
+	width: 450px;
 }	
-div.size3 {
+/* div.size3 {
 	width: 31.5%;
-}
-div.size4 {
+} */
+div.size3 {
+	width: 450px;
+}	
+/* div.size4 {
 	width: 35%;
+} */
+div.size4 {
+	width: 450px;
 }
-div.size5 {
+/* div.size5 {
 	width: 28%;
+} */
+div.size5 {
+	width: 380px;
 }
-div.size6 {
+/* div.size6 {
 	width: 37%;
+} */
+div.size6 {
+	width: 500px;
+}
+div.size7 {
+	width: 400px;
+}
+div.size8 {
+	width: 400px;
+}
+div.x {
+	width: 83vw;
+    height: 23vw;
 }
 div.size3p {
 	height: 10vw;
